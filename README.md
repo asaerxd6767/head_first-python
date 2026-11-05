@@ -23,8 +23,11 @@ Progress has not been specified yet. Check off each chapter here as you complete
 
 ## Repository owner
 
-<a href="https://github.com/zeke">
-	<img src="https://github.com/zeke.png" width="64" alt="zeke's GitHub avatar" />
+<a href="https://github.com/asaerxd6767">
+	<img src="https://github.com/asaerxd6767.png" width="80" alt="zeke's GitHub avatar" />
 </a>
+<br>
 
-**[@zeke](https://github.com/zeke)** · ![Total commits](https://img.shields.io/github/commit-activity/t/zeke/head_first-python?label=commits)
+Asser Mohammed
+
+![Total commits](https://img.shields.io/github/commit-activity/t/asaerxd6767/head_first-python?label=commits)
